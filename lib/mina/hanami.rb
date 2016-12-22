@@ -1,8 +1,7 @@
-require_relative '../hanami/tasks'
-require_relative '../hanami/version'
+require_relative '../../lib/mina/hanami/tasks'
+require_relative '../../lib/mina/hanami/version'
 
 module Mina
   module Hanami
-    # Your code goes here...
   end
 end
