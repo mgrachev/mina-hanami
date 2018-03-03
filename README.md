@@ -43,5 +43,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/mina-hanami.
+Bug reports and pull requests are welcome on GitHub at https://github.com/mgrachev/mina-hanami.
 
