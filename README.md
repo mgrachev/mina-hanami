@@ -1,4 +1,4 @@
-# Mina::Hanami
+# 🌸 Mina::Hanami
 
 [Mina](https://github.com/mina-deploy/mina) plugin for [Hanami](https://github.com/hanami/hanami)
 
